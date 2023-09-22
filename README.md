@@ -1,4 +1,4 @@
-## Bem-Vindo! Eu me chamo Thiago 🤙
+## Bem-Vindo! 🤙
 
 ![tlsena GitHub stats](https://github-readme-stats.vercel.app/api?username=tlsena&show_icons=true&theme=dracula)
 
