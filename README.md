@@ -1,6 +1,6 @@
 ## Bem-Vindo! 🤙
 
-![tlsena GitHub stats](https://github-readme-stats.vercel.app/api?username=tlsena&show_icons=true&theme=dracula)
+![tlsena GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoasena&show_icons=true&theme=dracula)
 
 ## Principais Tecnologias
 
