@@ -1,15 +1,13 @@
-## Bem-Vindo! 🤙
+## Bem-vindos ao meu perfil
 
 ![tlsena GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoasena&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thiagoasena&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Principais Tecnologias
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,azure,mysql,postgres,vscode,anaconda" />
+  </a>
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img align="center" alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="Postgree" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
-  <img align="center" alt="SQL Sever" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-</div><br>
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thiagoasena&bg_color=0d1117&color=9fb2e0&line=9fb2e0&point=7e98d5&area=true&hide_border=true)
+
