@@ -8,5 +8,3 @@
   </a>
 </p>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thiagoasena&bg_color=0d1117&color=0fb0e0&line=0fb0e0&point=7e98d5&area=true&hide_border=true)
-
