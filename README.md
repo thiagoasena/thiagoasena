@@ -8,3 +8,9 @@
   </a>
 </p>
 
+<div align="center">
+
+[![Static Badge](https://img.shields.io/badge/website-black)]()
+[![Static Badge](https://img.shields.io/badge/linkedin-black)](https://www.linkedin.com/in/thiagoasena/)
+</div>
+
